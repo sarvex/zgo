@@ -1,6 +1,6 @@
 module github.com/hexops/zgo
 
-go 1.19
+go 1.24
 
 require (
 	github.com/BurntSushi/toml v1.2.1
@@ -12,7 +12,7 @@ require (
 	github.com/andybalholm/brotli v1.0.4 // indirect
 	github.com/dsnet/compress v0.0.1 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
-	github.com/klauspost/compress v1.15.15 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/klauspost/pgzip v1.2.5 // indirect
 	github.com/nwaples/rardecode/v2 v2.0.0-beta.2 // indirect
 	github.com/pierrec/lz4/v4 v4.1.17 // indirect
